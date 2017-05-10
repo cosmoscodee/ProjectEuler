@@ -1,5 +1,5 @@
-/*problem001/ Multiples 3 and 5*/
-package basic;
+/* Multiples 3 and 5 배수 알고리즘 */
+package toTheTenth;
 
 public class Problem001 {
 
